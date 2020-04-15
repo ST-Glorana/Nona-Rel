@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['aa_0',['AA',['../class_nona_1_1_norus_e.html#a33a10452e2cb5dd41e20e40f5327be11',1,'Nona::NorusE']]],
-  ['alina_1',['Alina',['../class_nona_1_1_alina.html',1,'Nona']]]
+  ['aa_0',['AA',['../class_nona_1_1_nona_std.html#afbb7e214d1287ef1b58724dce54d6fa1',1,'Nona::NonaStd']]]
 ];
