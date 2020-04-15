@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['s1_14',['S1',['../class_nona_1_1_decenc.html#a23070bcfaa336812dc8789a406174b47',1,'Nona::Decenc']]]
+  ['s1_9',['S1',['../class_nona_1_1_nona_std.html#ab69afff2bfbde08eb42a935fb3d21c65',1,'Nona::NonaStd']]]
 ];

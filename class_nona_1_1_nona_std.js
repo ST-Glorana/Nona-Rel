@@ -3,6 +3,7 @@ var class_nona_1_1_nona_std =
     [ "AA", "class_nona_1_1_nona_std.html#afbb7e214d1287ef1b58724dce54d6fa1", null ],
     [ "DD", "class_nona_1_1_nona_std.html#a05ab9424c8734d7138fce3ac254c90f0", null ],
     [ "Decode", "class_nona_1_1_nona_std.html#a5d9ca86753ec8eaab2023b88a21bce57", null ],
+    [ "EE", "class_nona_1_1_nona_std.html#a76ef69d082d6aee99979b5c119110edf", null ],
     [ "F55", "class_nona_1_1_nona_std.html#ae966499d3aca7ab9a0cea34202b6fdc2", null ],
     [ "F66", "class_nona_1_1_nona_std.html#a7407f43794fcb1f8dfc89bff3a5e0b5c", null ],
     [ "Prerun", "class_nona_1_1_nona_std.html#af76149ed0d30840fd011ea7c376e79d5", null ],

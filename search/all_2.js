@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['f55_3',['F55',['../class_nona_1_1_nona_std.html#ae966499d3aca7ab9a0cea34202b6fdc2',1,'Nona::NonaStd']]],
-  ['f66_4',['F66',['../class_nona_1_1_nona_std.html#a7407f43794fcb1f8dfc89bff3a5e0b5c',1,'Nona::NonaStd']]]
+  ['ee_3',['EE',['../class_nona_1_1_nona_std.html#a76ef69d082d6aee99979b5c119110edf',1,'Nona::NonaStd']]]
 ];
